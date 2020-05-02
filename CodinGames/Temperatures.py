@@ -1,9 +1,6 @@
 import sys
 import math
 
-#
-## This code is good enough to reach 5/6 part
-#
 temps = []
 n = int(input())  # the number of temperatures to analyse
 
